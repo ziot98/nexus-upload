@@ -1,4 +1,4 @@
-# nexus-upload
+# nexus-uploader
 Since Nexus 3 version, repository files are stored in the database rather than the file system, making it difficult to upload library files in the local M2 repository directly to the server. Therefore, I created a JAVA*based GUI program so that it can be easily uploaded through RestAPI provided by Nexus and Maven's Deploy plugin.
 
 
